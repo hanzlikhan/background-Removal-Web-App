@@ -1,4 +1,4 @@
-# Background removal 
+# Background removal App
 
 A Streamlit application that allows users to upload images and automatically remove background within them using the Faster MODNET model with necessary libraries.
 
