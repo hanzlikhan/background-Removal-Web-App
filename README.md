@@ -9,13 +9,10 @@ A Streamlit application that allows users to upload images and automatically rem
 - **Visual Display:** Presents images with bounding boxes using Matplotlib for clear visualization.
 
 ## How It Works
- ![Ui image](download (1).jpeg)
 1. **Upload Image:** User uploads an image.
-2.  ![Input Image](input.png)
-3. **Preprocess Image:** Image is preprocessed to the required format.
-4. **Make Prediction:** Removing background from the images.
-5.  ![output](output.png)
-6. **Display Results:** After removing background , you can download the image.
+2. **Preprocess Image:** Image is preprocessed to the required format.
+3. **Make Prediction:** Removing background from the images.
+4. **Display Results:** After removing background , you can download the image.
 
 ## Installation
 
